@@ -1,0 +1,6 @@
+CT054, Computer Science, 2, 4
+PS124, Statistics, 2, 5 
+ED754, Machanics, 1, 6 
+ET784, Economics, 1, 2 
+ED098, Buissness, 3, 6 
+FD783, English, 1, 3 
