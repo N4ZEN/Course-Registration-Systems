@@ -25,6 +25,8 @@ Course Registration System for universities that can automate the fee payment ve
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Course Registration System complete with GUI
+
 ****************
 In 2019, where few manual processes remain yet to be automated, the process of registering and paying for courses in most universities
 is still done manually. The university has to receive the proof of fee payment and then register students one by one.
